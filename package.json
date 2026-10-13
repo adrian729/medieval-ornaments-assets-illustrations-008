@@ -1,0 +1,55 @@
+{
+  "name": "@ranx729/medieval-ornaments-assets-illustrations-008",
+  "version": "0.1.0",
+  "description": "Approved medieval ornament resources: illustrations-008",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrian729/medieval-ornaments-assets-illustrations-008.git"
+  },
+  "homepage": "https://adrian729.github.io/medieval-ornaments/",
+  "exports": {
+    "./package.json": "./package.json",
+    "./catalog.json": "./catalog.json",
+    "./resource-manifest.json": "./resource-manifest.json",
+    "./svg/*": "./svg/*",
+    "./png/*": "./png/*",
+    "./webp/*": "./webp/*"
+  },
+  "files": [
+    "png/128/horse.png",
+    "png/128/lion.png",
+    "png/256/horse.png",
+    "png/256/lion.png",
+    "png/512/horse.png",
+    "png/512/lion.png",
+    "png/768/horse.png",
+    "png/768/lion.png",
+    "png/hanging-grapes-with-two-broad-leaves.png",
+    "png/hanging-pear-with-short-curved-stem.png",
+    "png/horse.png",
+    "png/lion.png",
+    "svg/horse.svg",
+    "svg/lion.svg",
+    "webp/128/horse.webp",
+    "webp/128/lion.webp",
+    "webp/256/horse.webp",
+    "webp/256/lion.webp",
+    "webp/512/horse.webp",
+    "webp/512/lion.webp",
+    "webp/768/horse.webp",
+    "webp/768/lion.webp",
+    "webp/hanging-grapes-with-two-broad-leaves.webp",
+    "webp/hanging-pear-with-short-curved-stem.webp",
+    "webp/horse.webp",
+    "webp/lion.webp",
+    "catalog.json",
+    "resource-manifest.json",
+    "LICENSE"
+  ],
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,378 @@
+[
+  {
+    "description": "A small hanging grape cluster with two broad leaves and a short visible stem. Part of the Gessner Historiae Animalium set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "grape",
+      "leaf",
+      "fruit",
+      "stem"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-figure",
+    "name": "hanging-grapes-with-two-broad-leaves",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-gessner-lion-627095",
+    "png": "png/hanging-grapes-with-two-broad-leaves.png",
+    "webp": "webp/hanging-grapes-with-two-broad-leaves.webp",
+    "width": 79,
+    "height": 104,
+    "png_bytes": 5348,
+    "webp_bytes": 3046,
+    "variants": [],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Zentralbibliothek Zürich",
+      "title": "Gessner, Historiae animalium: De leone.",
+      "object_identifier": "5.1: a-5.3; image 627095; section De leone.",
+      "date": "1551–1587",
+      "record_url": "https://www.e-rara.ch/zuz/content/pageview/627095",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+      "source_sha256": "6e1d1022b4d3d1e03e77da2f3b87942a67558c62afaff5aa43fdd2f75b2e7716",
+      "image_url": "https://www.e-rara.ch/i3f/v20/627095/full/full/0/default.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Tiny native source decoration separated from initial L; no alphabetic glyph or frame retained. Complete fruit and leaf shapes with original short source-visible stem. No enlargement or invented branch.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "gessner-historiae-animalium",
+        "name": "Gessner Historiae Animalium"
+      },
+      {
+        "id": "erara-gessner-lion-627095-set",
+        "name": "Gessner, Historiae animalium: De leone. (erara-gessner-lion-627095)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2929,
+      "height": 4523
+    },
+    "master_longest_dimension_cap": 104,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small hanging pear with its short curved stem. Part of the Gessner Historiae Animalium set.",
+    "categories": [
+      "botanical"
+    ],
+    "subjects": [
+      "pear",
+      "fruit",
+      "stem"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-figure",
+    "name": "hanging-pear-with-short-curved-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-gessner-lion-627095",
+    "png": "png/hanging-pear-with-short-curved-stem.png",
+    "webp": "webp/hanging-pear-with-short-curved-stem.webp",
+    "width": 45,
+    "height": 82,
+    "png_bytes": 2563,
+    "webp_bytes": 1470,
+    "variants": [],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Zentralbibliothek Zürich",
+      "title": "Gessner, Historiae animalium: De leone.",
+      "object_identifier": "5.1: a-5.3; image 627095; section De leone.",
+      "date": "1551–1587",
+      "record_url": "https://www.e-rara.ch/zuz/content/pageview/627095",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+      "source_sha256": "6e1d1022b4d3d1e03e77da2f3b87942a67558c62afaff5aa43fdd2f75b2e7716",
+      "image_url": "https://www.e-rara.ch/i3f/v20/627095/full/full/0/default.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Source-native pear inside decorated initial L. Letter and printed box excluded. Entire original pear silhouette and visible short stem retained; no added rule, invented stalk or enlargement.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "gessner-historiae-animalium",
+        "name": "Gessner Historiae Animalium"
+      },
+      {
+        "id": "erara-gessner-lion-627095-set",
+        "name": "Gessner, Historiae animalium: De leone. (erara-gessner-lion-627095)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2929,
+      "height": 4523
+    },
+    "master_longest_dimension_cap": 82,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A horse with its complete mane, flowing tail, four legs and hooves. Part of the Gessner Historiae Animalium set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "horse"
+    ],
+    "facing": "left",
+    "colors": [
+      "brown",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "name": "horse",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-gessner-horse-626896",
+    "png": "png/horse.png",
+    "webp": "webp/horse.webp",
+    "width": 2651,
+    "height": 2390,
+    "png_bytes": 5885617,
+    "webp_bytes": 3352678,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/horse.png",
+        "webp": "webp/128/horse.webp",
+        "width": 128,
+        "height": 115,
+        "png_bytes": 21962,
+        "webp_bytes": 14622
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/horse.png",
+        "webp": "webp/256/horse.webp",
+        "width": 256,
+        "height": 231,
+        "png_bytes": 76042,
+        "webp_bytes": 56048
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/horse.png",
+        "webp": "webp/512/horse.webp",
+        "width": 512,
+        "height": 462,
+        "png_bytes": 291705,
+        "webp_bytes": 188406
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/horse.png",
+        "webp": "webp/768/horse.webp",
+        "width": 768,
+        "height": 692,
+        "png_bytes": 656898,
+        "webp_bytes": 407262
+      }
+    ],
+    "svg": "svg/horse.svg",
+    "viewbox": [
+      0,
+      0,
+      2651,
+      2390
+    ],
+    "derivation": "ai-assisted-source-mask",
+    "provenance": {
+      "institution": "Zentralbibliothek Zürich",
+      "title": "Gessner, Historiae animalium: De equo.",
+      "object_identifier": "5.1: a-5.3; image 626896; section De equo.",
+      "date": "1551–1587",
+      "record_url": "https://www.e-rara.ch/zuz/content/pageview/626896",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+      "source_sha256": "bdb76be1e8bb533a330049a50f7d9fd8da275b9198923c2aa54606f1c1b310f9",
+      "image_url": "https://www.e-rara.ch/i3f/v20/626896/full/full/0/default.jpg",
+      "method": "ai-assisted-source-mask",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "gessner-historiae-animalium",
+        "name": "Gessner Historiae Animalium"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2930,
+      "height": 4523
+    },
+    "master_longest_dimension_cap": 2651,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A lion with its complete mane, paws and tufted curled tail. Part of the Gessner Historiae Animalium set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "lion"
+    ],
+    "facing": "left",
+    "colors": [
+      "brown",
+      "cream"
+    ],
+    "composition": "single-figure",
+    "name": "lion",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "erara-gessner-lion-627095",
+    "png": "png/lion.png",
+    "webp": "webp/lion.webp",
+    "width": 2225,
+    "height": 1151,
+    "png_bytes": 3182659,
+    "webp_bytes": 1867242,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/lion.png",
+        "webp": "webp/128/lion.webp",
+        "width": 128,
+        "height": 66,
+        "png_bytes": 17689,
+        "webp_bytes": 11332
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/lion.png",
+        "webp": "webp/256/lion.webp",
+        "width": 256,
+        "height": 132,
+        "png_bytes": 62684,
+        "webp_bytes": 40940
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/lion.png",
+        "webp": "webp/512/lion.webp",
+        "width": 512,
+        "height": 265,
+        "png_bytes": 238630,
+        "webp_bytes": 162854
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/lion.png",
+        "webp": "webp/768/lion.webp",
+        "width": 768,
+        "height": 397,
+        "png_bytes": 509499,
+        "webp_bytes": 365532
+      }
+    ],
+    "svg": "svg/lion.svg",
+    "viewbox": [
+      0,
+      0,
+      2225,
+      1151
+    ],
+    "derivation": "ai-assisted-source-mask",
+    "provenance": {
+      "institution": "Zentralbibliothek Zürich",
+      "title": "Gessner, Historiae animalium: De leone.",
+      "object_identifier": "5.1: a-5.3; image 627095; section De leone.",
+      "date": "1551–1587",
+      "record_url": "https://www.e-rara.ch/zuz/content/pageview/627095",
+      "image_rights": "Public Domain Mark; parent bibliographic record",
+      "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+      "source_sha256": "6e1d1022b4d3d1e03e77da2f3b87942a67558c62afaff5aa43fdd2f75b2e7716",
+      "image_url": "https://www.e-rara.ch/i3f/v20/627095/full/full/0/default.jpg",
+      "method": "ai-assisted-source-mask",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "gessner-historiae-animalium",
+        "name": "Gessner Historiae Animalium"
+      },
+      {
+        "id": "erara-gessner-lion-627095-set",
+        "name": "Gessner, Historiae animalium: De leone. (erara-gessner-lion-627095)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2929,
+      "height": 4523
+    },
+    "master_longest_dimension_cap": 2225,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  }
+]
